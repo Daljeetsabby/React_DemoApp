@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Homepage Snapshot renders correctly 1`] = `
+<Fragment>
+  <NavbarHeader />
+  <ProductList />
+  <footerComponent />
+</Fragment>
+`;
+
+exports[`Render Homepage Correctly renders correctly 1`] = `
+<Fragment>
+  <NavbarHeader />
+  <ProductList />
+  <footerComponent />
+</Fragment>
+`;
