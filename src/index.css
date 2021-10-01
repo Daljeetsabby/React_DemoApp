@@ -1,0 +1,52 @@
+
+body{
+  padding-top: 50px;
+ 
+}
+
+.headercss{
+
+  max-width: 1300px;
+}
+
+
+ div.card.w-25:hover,  div.card.w-25:focus {
+  background-color: rgb(243, 243, 243);
+ }
+ .card-img-top {
+  width: 100%;
+  height: 15vw;
+  object-fit: cover;
+}
+
+section{
+
+  
+  height: 84vh;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+
+}
+
+
+#cont {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  padding: 10px;
+  width: 800px;
+  height: 800px;
+  background-color: #fff;
+}
+.question {
+  width: 500px;
+  height: 300px;
+}
+
+.question-container {
+  width: 100%;
+  height: 100%;
+}

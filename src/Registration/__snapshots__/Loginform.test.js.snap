@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Login Form renders correctly 1`] = `
+<Formik
+  handleSubmit={[Function]}
+  initialValues={
+    Object {
+      "emailId": "",
+      "password": "",
+    }
+  }
+  onSubmit={[Function]}
+  validationSchema={[Function]}
+>
+  <Component />
+</Formik>
+`;
